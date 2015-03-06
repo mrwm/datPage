@@ -1,5 +1,5 @@
 # datPage
-Just another chrome theme
+Just another chrome theme with a meme. :D
 
 ---
 
